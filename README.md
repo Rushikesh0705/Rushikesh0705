@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ratan Biswakarmakar</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Rushikesh Gavada</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanr07" alt="ratanr07" /></a> </p>
 
 - 🔭 I’m currently working on **Forex Trade**
@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ratanR07](https://github.com/ratanR07)
 
-- 💬 Ask me about **SQL,Python,ML,DL,AI**
+- 💬 Ask me about **HTML,CSS,Javascript**
 
-- 📫 How to reach me **ratanbisong@gmail.com**
+- 📫 How to reach me **rushikesh.structure@gmail.com**
 
 
 
